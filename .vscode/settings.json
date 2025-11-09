@@ -14,6 +14,7 @@
     "imshow",
     "ipynb",
     "ipython",
+    "linalg",
     "meshgrid",
     "mkdocs",
     "mypy",
@@ -21,6 +22,7 @@
     "nosetests",
     "pipenv",
     "Pipfile",
+    "Preconditioner",
     "pybuilder",
     "pycache",
     "pyenv",
@@ -34,6 +36,7 @@
     "scrapy",
     "sdist",
     "Seidel",
+    "spla",
     "Spyder",
     "spyderproject",
     "spyproject",
@@ -43,6 +46,9 @@
     "ylabel",
     "zlabel",
     "Зейделя",
-    "непр"
+    "непр",
+    "предобуславливатель",
+    "предобуславливателя",
+    "СЛАУ"
   ]
 }
