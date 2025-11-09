@@ -1,15 +1,23 @@
 {
   "cmake.ignoreCMakeListsMissing": true,
   "cSpell.words": [
+    "axhline",
+    "axvline",
     "celerybeat",
+    "colorbar",
     "Connor",
+    "contourf",
     "Cython",
     "dmypy",
+    "figsize",
     "htmlcov",
+    "imshow",
     "ipynb",
     "ipython",
+    "meshgrid",
     "mkdocs",
     "mypy",
+    "ndarray",
     "nosetests",
     "pipenv",
     "Pipfile",
@@ -25,10 +33,16 @@
     "ropeproject",
     "scrapy",
     "sdist",
+    "Seidel",
     "Spyder",
     "spyderproject",
     "spyproject",
     "venv",
-    "webassets"
+    "webassets",
+    "xlabel",
+    "ylabel",
+    "zlabel",
+    "Зейделя",
+    "непр"
   ]
 }
