@@ -1,4 +1,4 @@
-# Template
+# Computational Mathematics
 
 ## Installation (eng)
 
@@ -7,13 +7,13 @@
     Before you begin, you need to clone the project's source code repository.
 
     ```bash
-    git clone https://github.com/UmbrellaLeaf5/template_python_usual.git
+    git clone https://github.com/UmbrellaLeaf5/comp_math.git
     ```
 
     Go to the directory where the repository was cloned:
 
     ```bash
-    cd template_python_usual
+    cd comp_math
     ```
 
 1.  **Creating a virtual environment:**
@@ -118,13 +118,13 @@ uv venv .venv && source .venv/Scripts/activate && uv pip install -r requirements
     Перед тем как начать, вам необходимо клонировать репозиторий с исходным кодом проекта.
 
     ```bash
-    git clone https://github.com/UmbrellaLeaf5/template_python_usual.git
+    git clone https://github.com/UmbrellaLeaf5/comp_math.git
     ```
 
     Перейдите в директорию, куда был клонирован репозиторий:
 
     ```bash
-    cd template_python_usual
+    cd comp_math
     ```
 
 1.  **Создание виртуального окружения:**
